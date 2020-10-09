@@ -6,7 +6,7 @@ namespace dnc1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("regewfesfewfewew:re:zero");
+            Console.WriteLine("re:zero");
         }
     }
 }
