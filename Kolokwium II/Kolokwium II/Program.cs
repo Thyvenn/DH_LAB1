@@ -6,7 +6,7 @@ namespace Kolokwium_II
     {
         static void Main(string[] args)
         {
-            //przed kolokwium II
+            //przed kolokwium 2
             Console.WriteLine("Testowe");
         }
     }
